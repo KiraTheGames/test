@@ -14,7 +14,7 @@
     {"type": "b", "sectionID": "section3", "elementContent": ["'Aktualizuj sterownik'", ""]},
     {"type": "span", "sectionID": "section3", "elementContent": [". Można również odinstalować sterownik lub przywrócić poprzednią wersję, jeśli aktualizacja spowodowała problemy.", ""]},
     
-    {"type": "h2", "sectionID": "section4", "elementContent": ["Zarządzanie sterownikami", ""]},
+    {"type": "h2", "sectionID": "section4", "elementContent": ["Diagnostyka urządzeń", ""]},
     {"type": "span", "sectionID": "section4", "elementContent": ["W przypadku wystąpienia problemów z urządzeniem, Menadżer Urządzeń oferuje narzędzia do diagnozy. Urządzenia z problemami są zazwyczaj oznaczone żółtym wykrzyknikiem. Aby rozpocząć diagnozę, kliknij prawym przyciskiem myszy na urządzenie i wybierz", ""]},
     {"type": "text-block-name", "sectionID": "section4", "elementContent": ["Właściwości", ""]},
     {"type": "span", "sectionID": "section4", "elementContent": [", a następnie zakładkę ", ""]},
