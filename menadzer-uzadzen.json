@@ -4,7 +4,7 @@
     
     {"type": "h2", "sectionID": "section2", "elementContent": ["Jak otworzyć Menadżer Urządzeń", ""]},
     {"type": "text", "sectionID": "section2", "elementContent": ["Aby otworzyć Menadżer Urządzeń, wystarczy wpisać", ""]},
-    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["devmgmt.msc", ""]},
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["devmgmt.msc", "xD"]},
     {"type": "text", "sectionID": "section2", "elementContent": ["w wyszukiwarce menu Start. Alternatywnie użyć skrótu klawiszowego", ""]},
     {"type": "key-combo", "sectionID": "section2", "elementContent": ["Windows", "X"]},
     {"type": "text", "sectionID": "section2", "elementContent": ["i wybrać Menadżer Urządzeń z listy.", ""]},
