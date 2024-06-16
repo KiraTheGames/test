@@ -29,12 +29,12 @@
     {"type": "h2", "sectionID": "section6", "elementContent": ["Zadania do wykonania", ""]},
     
     {"type": "list","sectionID": "section6", "elementContent": {"ver":"ul",
-    "list-elements":["Otwórz Menadżer Urządzeń i zidentyfikuj urządzenie, które nie ma zainstalowanych sterowników.",
+    "listElements":["Otwórz Menadżer Urządzeń i zidentyfikuj urządzenie, które nie ma zainstalowanych sterowników.",
     "Zaktualizuj sterowniki dla swojej karty graficznej.",
     "Sprawdź, czy są jakieś konflikty zasobów i spróbuj je rozwiązać."] }},
     
     {"type": "list","sectionID": "section6", "elementContent": {"ver":"ol",
-    "list-elements":["Znajdź w Menadżerze urządzeń urządzenie, które nie posiada aktualnych sterowników i zaktualizuj je.",
+    "listElements":["Znajdź w Menadżerze urządzeń urządzenie, które nie posiada aktualnych sterowników i zaktualizuj je.",
     "Wyłącz i ponownie włącz dowolne urządzenie, aby zobaczyć, jak system reaguje na zmiany.",
     "Użyj Menadżera urządzeń do odnalezienia informacji o producencie i modelu twojej karty graficznej."] }},
     
