@@ -7,7 +7,6 @@
     {"type": "text-block-name", "sectionID": "section2", "elementContent": ["devmgmt.msc", "xD"]},
     {"type": "text", "sectionID": "section2", "elementContent": ["w wyszukiwarce menu Start. Alternatywnie użyć skrótu klawiszowego", ""]},
     {"type": "key-combo", "sectionID": "section2", "elementContent": ["Windows", "X"]},
-    {"type": "key-combo", "sectionID": "section2", "elementContent": ["Ctrl", "Alt","Shift","Tab","Enter", "Backspace","Space","CapsLock","Esc"]},
     {"type": "text", "sectionID": "section2", "elementContent": ["i wybrać Menadżer Urządzeń z listy.",""]},
     
     {"type": "h2", "sectionID": "section3", "elementContent": ["Zarządzanie sterownikami", ""]},
