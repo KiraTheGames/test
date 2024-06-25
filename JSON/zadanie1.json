@@ -29,13 +29,14 @@
     
     {"type": "h2", "sectionID": "section3", "elementContent": ["Konfiguracja domeny i użytkowników w usłudze Active Directory", ""]},
     {"type": "span", "sectionID": "section3", "elementContent": ["Dodaj niezbedne role na serwerze i utwórz domenę o nazwie:", ""]},
-    {"type": "b", "sectionID": "section3", "elementContent": ["'Eden'", ""]},
+    {"type": "b", "sectionID": "section3", "elementContent": [" 'Eden'", ""]},
     {"type": "span", "sectionID": "section3", "elementContent": [". Nastepnie utwórz jednostki organizacyjne o nazwach.", ""]},
-    {"type": "i", "sectionID": "section3", "elementContent": ["'Sieci'", ""]},
+    {"type": "i", "sectionID": "section3", "elementContent": [" 'Sieci'", ""]},
     {"type": "span", "sectionID": "section3", "elementContent": [" oraz ", ""]},
     {"type": "i", "sectionID": "section3", "elementContent": ["'Zasilacze'", ""]},
+    {"type": "br", "sectionID": "section3"},
     {"type": "span", "sectionID": "section3", "elementContent": [". W jednostkach  organizacyjnych utwórz po jednym użytkowniku na katalog np.:", ""]},
-    {"type": "i", "sectionID": "section3", "elementContent": ["'Adam'", ""]},
+    {"type": "i", "sectionID": "section3", "elementContent": [" 'Adam'", ""]},
     {"type": "span", "sectionID": "section3", "elementContent": [" i ", ""]},
     {"type": "i", "sectionID": "section3", "elementContent": ["'Ewa'", ""]},
 
