@@ -26,7 +26,8 @@
     {"type": "link-art", "sectionID": "section5", "elementContent": ["kanały DMA", "Metody komunikacji pomiędzy peryferiami ", "DMA - Direct Memory Access"]},
     {"type": "link-art", "sectionID": "section5", "elementContent": ["adresy In/Out(I/O) [Wejście/Wyjście(We/Wy)]", "PCI", "Zasady działania PCI Express"]},
     {"type": "span", "sectionID": "section5", "elementContent": ["oraz adresy pamięci. Te zaawansowane funkcje są dostępne w zakładce 'Zasoby' w oknie właściwości urządzenia.", ""]},
-    {"type": "h2", "sectionID": "section6", "elementContent": ["Zadania do wykonania", ""]},
+    
+    {"type": "h2", "sectionID": "section6", "elementContent": ["Ćwiczenia do wykonania", ""]},
     
     {"type": "list","sectionID": "section6", "elementContent": {"ver":"ul",
     "listElements":["Otwórz Menadżer Urządzeń i zidentyfikuj urządzenie, które nie ma zainstalowanych sterowników.",
