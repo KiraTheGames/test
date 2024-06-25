@@ -24,9 +24,25 @@
     {"type": "span", "sectionID": "section2", "elementContent": ["DNS:", ""]},
     {"type": "text-block-name", "sectionID": "section2", "elementContent": ["Adres IPv4 serwera","IPv4"]},
     {"type": "br", "sectionID": "section2"},
+    
     {"type": "table", "sectionID": "section2","elementContent": [
-        ["Adam","Ewa"],
-        ["Centrum sieci i udostępniania","brak dostepu do panelu sterowania"]
+        [{"type": "span", "sectionID": "section2", "elementContent": ["Adres IPv4 klienta:", ""]},
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["192.168.0.50","IPv4"]}],
+        
+        [{"type": "span", "sectionID": "section2", "elementContent": ["Maska podsieci:", ""]},
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["Zgodna z klasą C","IPv4"]}],
+
+        [{"type": "span", "sectionID": "section2", "elementContent": ["Brama domyślna:", ""]},
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["Adres IPv4 serwera","IPv4"]}],
+
+        [{"type": "span", "sectionID": "section2", "elementContent": ["DNS:", ""]},
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["Adres IPv4 serwera","IPv4"]}]
+    ]},
+
+    
+    {"type": "table", "sectionID": "section2","elementContent": [
+        [{"type": "span", "elementContent": ["Adam", ""]},{"type": "span", "elementContent": ["Ewa", ""]}],
+        [{"type": "u", "elementContent": ["Centrum sieci i udostępniania", ""]},{"type": "s", "elementContent": ["brak dostepu do panelu sterowania", ""]}]
     ]},
 
     
