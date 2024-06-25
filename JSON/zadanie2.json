@@ -25,7 +25,7 @@
     {"type": "text-block-name", "sectionID": "section2", "elementContent": ["Adres IPv4 serwera","IPv4"]},
     {"type": "br", "sectionID": "section2"},
     {"type": "table", "sectionID": "section2","elementContent": [
-        ["Adam","Ewa"]
+        ["Adam","Ewa"],
         ["Centrum sieci i udostępniania","brak dostepu do panelu sterowania"]
     ]},
 
