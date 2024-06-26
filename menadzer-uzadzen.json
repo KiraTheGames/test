@@ -8,6 +8,11 @@
     {"type": "span", "sectionID": "section2", "elementContent": ["w wyszukiwarce menu Start. Alternatywnie użyć skrótu klawiszowego", ""]},
     {"type": "key-combo", "sectionID": "section2", "elementContent": ["Windows", "X"]},
     {"type": "span", "sectionID": "section2", "elementContent": ["i wybrać Menadżer Urządzeń z listy.",""]},
+    {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/menadżer-zadań-sposób-uruchomienia.webp",
+    "Pasek narzędzi po przyciśnieciu prawego przycisku myszki na ikonę start windowsa. Alternatywnie skrót klawiszowy Windows + X.",
+    "209","613"
+    ]},
     
     {"type": "h2", "sectionID": "section3", "elementContent": ["Zarządzanie sterownikami", ""]},
     {"type": "span", "sectionID": "section3", "elementContent": ["Menadżer Urządzeń pozwala na aktualizację sterowników dla poszczególnych komponentów. Aby to zrobić, należy kliknąć prawym przyciskiem myszy na urządzenie i wybrać opcję", ""]},
@@ -21,6 +26,11 @@
     {"type": "text-block-name", "sectionID": "section4", "elementContent": ["Stan urządzenia", ""]},
     
     {"type": "h2", "sectionID": "section5", "elementContent": ["Zarządzanie zasobami", ""]},
+    {"type": "img", "sectionID": "section5", "elementContent": [
+    "KiraTheGames/test/main/moj-menad%C5%BCer-zada%C5%84.webp",
+    "Pasek narzędzi po przyciśnieciu prawego przycisku myszki na ikonę start windowsa. Alternatywnie skrót klawiszowy Windows + X.",
+    "427","922","KiraTheGames/test/main/moj-menad%C5%BCer-zada%C5%84.webp"
+    ]},
     {"type": "span", "sectionID": "section5", "elementContent": ["Menadżer Urządzeń umożliwia również zarządzanie zasobami sprzętowymi, takimi jak", ""]},
     {"type": "link-art", "sectionID": "section5", "elementContent": ["przerwania IRQ", "Procesory", "Zarządzanie żądaniami komputera"]},
     {"type": "link-art", "sectionID": "section5", "elementContent": ["kanały DMA", "Metody komunikacji pomiędzy peryferiami ", "DMA - Direct Memory Access"]},
