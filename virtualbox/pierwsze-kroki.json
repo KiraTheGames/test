@@ -1,8 +1,17 @@
 [
-    {"type": "h2", "sectionID": "section1", "elementContent": ["Windows - Menadżer Urządzeń", "green"]},
-    {"type": "p", "sectionID": "section1","elementContent":["Menadżer urządzeń to integralna część systemu operacyjnego Windows, która pozwala użytkownikom na zarządzanie sprzętem komputerowym.Jest to narzędzie systemowe, które umożliwia wyświetlanie i kontrolowanie zainstalowanych na komputerze urządzeń. Dzięki niemu można aktualizować sterowniki, zmieniać ustawienia sprzętu, rozwiązywać problemy związane z urządzeniami oraz zarządzać zasobami systemowymi.",""]},
+    {"type": "h2", "sectionID": "section1", "elementContent": ["Wirtualizacja systemów gości"]},
+    {"type": "p", "sectionID": "section1","elementContent":["Podczas przeprowadzania zajęć lekcyjnych będziesz wykorzystywał zwirtualizowane systemy operacyjne, używając do tego otwartoźródłowego oprogramowania VirtualBox od firmy Oracle. Wirtualizacja to technologia, która pozwala na uruchomienie wielu systemów operacyjnych na jednym fizycznym komputerze, gdzie każdy z nich działa w izolowanym wirtualnym środowisku.",""]},
     
-    {"type": "h2", "sectionID": "section2", "elementContent": ["Jak otworzyć Menadżer Urządzeń", ""]},
+    {"type": "h2", "sectionID": "section2", "elementContent": ["Wparcie wirtualizacji przez procesor CPU", ""]},
+   {"type": "p", "sectionID": "section2","elementContent":["Do prawidłowego działania systemów gości procesor musi wspierać wirtualizację oraz mieć ją włączoną. Możesz w prosty sposób sprawdzić, czy wirtualizacja na procesorze (CPU) jest włączona za pośrednictwem Menedżera zadań.",""]},
+   {"type": "p", "sectionID": "section2","elementContent":["Jeżeli u Ciebie wirtualizacja jest wyłączona, będziesz musiał ją włączyć w BIOS/UEFI. Uruchom więc ponownie komputer i podczas startu klikaj klawisz odpowiadający uruchomieniu Setup-u, np. [F2] lub [Delete]. Następnie będziesz musiał znaleźć opcję powiązaną z wirtualizacją na Twoim procesorze. Przykładowe nazwy to:",""]},
+{"type": "list","sectionID": "section2", "elementContent": {"ver":"ul",
+    "listElements":["VT-x dla procesorów Intel",
+    "AMD-V dla procesorów AMD."] }},   
+
+{"type": "p", "sectionID": "section1","elementContent":["",""]},
+    
+    
     {"type": "span", "sectionID": "section2", "elementContent": ["Aby otworzyć Menadżer Urządzeń, wystarczy wpisać", ""]},
     {"type": "text-block-name", "sectionID": "section2", "elementContent": ["devmgmt.msc", "xD"]},
     {"type": "span", "sectionID": "section2", "elementContent": ["w wyszukiwarce menu Start. Alternatywnie użyć skrótu klawiszowego", ""]},
