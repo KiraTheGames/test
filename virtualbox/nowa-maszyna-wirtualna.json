@@ -34,7 +34,7 @@
 
     {"type": "text-block-name", "sectionID": "section2", "elementContent": ["„Inny…”", "​"]},
      {"type": "span", "sectionID": "section2","elementContent":[" i wskaż obraz ISO systemu do instalacji. Jak nie masz jeszcze obrazu ISO lub nie znasz tego rozszerzenia pliku to zapraszam: ",""]},
-    {"type": "link-art", "sectionID": "section2", "elementContent": ["Obrazy ISO - Co to i jak je zdobyć", "Typy i rozszerzenia plików", "LEKCJA"]},
+    {"type": "link-art", "sectionID": "section2", "elementContent": ["Obrazy ISO - Co to i jak je zdobyć", "Typy i rozszerzenia plików"]},
     {"type": "span", "sectionID": "section2","elementContent":["Dodatkowo, pomiń instalację bez nadzoru (",""]},
     {"type": "text-block-name", "sectionID": "section2", "elementContent": ["„Skip unattended Installation”", "​"]},
     {"type": "span", "sectionID": "section2","elementContent":[").",""]},
