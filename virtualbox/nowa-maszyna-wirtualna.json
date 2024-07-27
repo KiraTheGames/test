@@ -15,6 +15,32 @@
     "Domyślna ścieżka do przechowywania wyeksportowanych maszyn",
     "900","630", "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia-ogolne_ORIGINAL.webp"
     ]},
+    {"type": "span", "sectionID": "section1","elementContent":["Dodatkowo możesz skonfigurować: motyw, język i sprawdzanie aktualizacji.",""]},
+{"type": "img", "sectionID": "section1", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia-ogolne-inne.webp",
+    "Inne ustawienia globalne VirtualBox-a",
+    "900","630", "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia-ogolne-inne_ORIGINAL.webp"
+    ]},
+
+    
+    {"type": "h2", "sectionID": "section2", "elementContent": ["Tworzenie nowej maszyny wirtualnej"]},
+    {"type": "span", "sectionID": "section2","elementContent":["Kliknij ",""]},
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["Nowa", "​"]},
+    {"type": "span", "sectionID": "section2","elementContent":[" (alternatywnie użyj skrótu klawiszowego ",""]},
+    {"type": "key-combo", "sectionID": "section2", "elementContent": ["Ctrl","N"]},
+    {"type": "span", "sectionID": "section2","elementContent":["). Pojawi się okno kreatora nowej maszyny. Nadaj maszynie jednoznaczną nazwę; katalog powinien ustawić się automatycznie dzięki wcześniejszym zmianom w ustawieniach globalnych. W polu",""]},
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["„ISO Image:”", "​"]},
+     {"type": "span", "sectionID": "section2","elementContent":[" wybierz ",""]},
+
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["„Inny…”", "​"]},
+     {"type": "span", "sectionID": "section1","elementContent":[" i wskaż obraz ISO systemu do instalacji. Jak nie masz jeszcze obrazu ISO lub nie znasz tego rozszerzenia pliku to zapraszam: ",""]},
+    {"type": "link-art", "sectionID": "section2", "elementContent": ["Obrazy ISO Co to i jak je zdobyć", "PCI", "Zasady działania PCI Express"]},
+    {"type": "span", "sectionID": "section2","elementContent":["Dodatkowo, pomiń instalację bez nadzoru (",""]},
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["„Skip unattended Installation”", "​"]},
+    {"type": "span", "sectionID": "section2","elementContent":[").",""]},
+    
+
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Nowa", "​"]},
 
 
 
@@ -22,6 +48,10 @@
 
 
 
+
+
+
+    
 
   
     {"type": "p", "sectionID": "section1","elementContent":["Podczas przeprowadzania zajęć lekcyjnych będziesz wykorzystywał zwirtualizowane systemy operacyjne, używając do tego otwartoźródłowego oprogramowania VirtualBox od firmy Oracle. Wirtualizacja to technologia, która pozwala na uruchomienie wielu systemów operacyjnych na jednym fizycznym komputerze, gdzie każdy z nich działa w izolowanym wirtualnym środowisku.",""]},
