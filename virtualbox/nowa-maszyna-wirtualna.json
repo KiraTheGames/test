@@ -2,10 +2,19 @@
     {"type": "h2", "sectionID": "section1", "elementContent": ["Konfiguracja globalna i maszyny w VirtualBox"]},
 
     {"type": "span", "sectionID": "section1","elementContent":[" (Uruchom VirtualBox-a i przejdź do globalnych ustawieni ( alternatywnie skrót klawiszowy ",""]},
-    {"type": "key-combo", "sectionID": "section2", "elementContent": ["Ctrl","G"]},
+    {"type": "key-combo", "sectionID": "section1", "elementContent": ["Ctrl","G"]},
     {"type": "span", "sectionID": "section1","elementContent":[")",""]},
-    
-
+     {"type": "img", "sectionID": "section1", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia.webp",
+    "Ustawienia globalne w VirtualBox",
+    "944","539", "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section1","elementContent":["Zmień domyślny folder maszyn wirtualnych.",""]},
+ {"type": "img", "sectionID": "section1", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia-ogolne.webp",
+    "Domyślna ścieżka do przechowywania wyeksportowanych maszyn",
+    "900","630", "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia-ogolne_ORIGINAL.webp"
+    ]},
 
 
 
