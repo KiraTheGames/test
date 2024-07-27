@@ -47,69 +47,58 @@
     {"type": "text-block-name", "sectionID": "section3", "elementContent": ["​Windows hosts",""]},
     
     {"type": "span", "sectionID": "section3", "elementContent": ["Aby zainstalować VirtualBox-a musisz posiadać uprawnienia administratora ", ""]},
- {"type": "span", "sectionID": "section3", "elementContent": ["Po pobraniu instalatora z oficjalnej strony uruchom go i kliknij ", ""]},
+ {"type": "span", "sectionID": "section3", "elementContent": ["Po pobraniu instalatora z oficjalnej strony, uruchom go i kliknij ", ""]},
     {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Next>", "​"]},
     
-     {"type": "span", "sectionID": "section3", "elementContent": ["Po pobraniu instalatora z oficjalnej strony uruchom go i kliknij  ", ""]},
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-{"type": "p", "sectionID": "section1","elementContent":["",""]},
-
-
-    
-    {"type": "h2", "sectionID": "section3", "elementContent": ["Zarządzanie sterownikami", ""]},
-    {"type": "span", "sectionID": "section3", "elementContent": ["Menadżer Urządzeń pozwala na aktualizację sterowników dla poszczególnych komponentów. Aby to zrobić, należy kliknąć prawym przyciskiem myszy na urządzenie i wybrać opcję", ""]},
-    {"type": "b", "sectionID": "section3", "elementContent": ["'Aktualizuj sterownik'", ""]},
-    {"type": "span", "sectionID": "section3", "elementContent": [". Można również odinstalować sterownik lub przywrócić poprzednią wersję, jeśli aktualizacja spowodowała problemy.", ""]},
-    
-    {"type": "h2", "sectionID": "section4", "elementContent": ["Diagnostyka urządzeń", ""]},
-    {"type": "span", "sectionID": "section4", "elementContent": ["W przypadku wystąpienia problemów z urządzeniem, Menadżer Urządzeń oferuje narzędzia do diagnozy. Urządzenia z problemami są zazwyczaj oznaczone żółtym wykrzyknikiem. Aby rozpocząć diagnozę, kliknij prawym przyciskiem myszy na urządzenie i wybierz", ""]},
-    {"type": "text-block-name", "sectionID": "section4", "elementContent": ["Właściwości", ""]},
-    {"type": "span", "sectionID": "section4", "elementContent": [", a następnie zakładkę ", ""]},
-    {"type": "text-block-name", "sectionID": "section4", "elementContent": ["Stan urządzenia", ""]},
-    
-    {"type": "h2", "sectionID": "section5", "elementContent": ["Zarządzanie zasobami", ""]},
-    {"type": "img", "sectionID": "section5", "elementContent": [
-    "KiraTheGames/test/main/moj-menad%C5%BCer-zada%C5%84.webp",
-    "Pasek narzędzi po przyciśnieciu prawego przycisku myszki na ikonę start windowsa. Alternatywnie skrót klawiszowy Windows + X.",
-    "427","922","KiraTheGames/test/main/moj-menad%C5%BCer-zada%C5%84.webp"
+     {"type": "span", "sectionID": "section3", "elementContent": [", aby przejść dalej. ", ""]},
+ {"type": "img", "sectionID": "section3", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/virtualbox-install-part1.webp",
+    "Strona główna instalatora oprogramowania VirtualBox.",
+    "770","607", "KiraTheGames/test/main/virtualbox/virtualbox-install-part1_ORIGINAL.webp"
     ]},
-    {"type": "span", "sectionID": "section5", "elementContent": ["Menadżer Urządzeń umożliwia również zarządzanie zasobami sprzętowymi, takimi jak", ""]},
-    {"type": "link-art", "sectionID": "section5", "elementContent": ["przerwania IRQ", "Procesory", "Zarządzanie żądaniami komputera"]},
-    {"type": "link-art", "sectionID": "section5", "elementContent": ["kanały DMA", "Metody komunikacji pomiędzy peryferiami ", "DMA - Direct Memory Access"]},
-    {"type": "link-art", "sectionID": "section5", "elementContent": ["adresy In/Out(I/O) [Wejście/Wyjście(We/Wy)]", "PCI", "Zasady działania PCI Express"]},
-    {"type": "span", "sectionID": "section5", "elementContent": ["oraz adresy pamięci. Te zaawansowane funkcje są dostępne w zakładce 'Zasoby' w oknie właściwości urządzenia.", ""]},
+
+ {"type": "span", "sectionID": "section3", "elementContent": ["Aby zainstalować oprogramowanie w innej niż domyślna lokalizacji dyskowej, wybierz ", ""]},
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Browse", "​"]},
     
-    {"type": "h2", "sectionID": "section6", "elementContent": ["Ćwiczenia do wykonania", ""]},
+{"type": "span", "sectionID": "section3", "elementContent": [", następnie z listy wybierz interesujący cię dysk, a potem utwórz na nim nowy katalog o adekwatnej nazwie, np. VirtualBox. W efekcie końcowym uzyskasz ścieżkę do katalogu plików źródłowych oprogramowania do wirtualizacji: 5)", ""]},
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["V:\VirtualBox", "​"]},
+     {"type": "img", "sectionID": "section3", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/virtualbox-install-part2.webp",
+    "Zmiana lokalizacji instalacji Virtualbox-a",
+    "944","372", "KiraTheGames/test/main/virtualbox/virtualbox-install-part2_ORIGINAL.webp"
+    ]},
     
-    {"type": "list","sectionID": "section6", "elementContent": {"ver":"ul",
-    "listElements":["Otwórz Menadżer Urządzeń i zidentyfikuj urządzenie, które nie ma zainstalowanych sterowników.",
-    "Zaktualizuj sterowniki dla swojej karty graficznej.",
-    "Sprawdź, czy są jakieś konflikty zasobów i spróbuj je rozwiązać."] }},
+     {"type": "span", "sectionID": "section3", "elementContent": ["Zatwierdź zmiany klikając  ", ""]},
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["OK", "​"]},
+     {"type": "span", "sectionID": "section3", "elementContent": ["i przejdź do kolejnej strony instalatora klikając ", ""]},
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Next>", "​"]},
     
-    {"type": "list","sectionID": "section6", "elementContent": {"ver":"ol",
-    "listElements":["Znajdź w Menadżerze urządzeń urządzenie, które nie posiada aktualnych sterowników i zaktualizuj je.",
-    "Wyłącz i ponownie włącz dowolne urządzenie, aby zobaczyć, jak system reaguje na zmiany.",
-    "Użyj Menadżera urządzeń do odnalezienia informacji o producencie i modelu twojej karty graficznej."] }},
+
+{"type": "span", "sectionID": "section3", "elementContent": ["Pojawi się ostrzeżenie dotyczące przerwań pracy interfejsów sieciowych, co oznacza, że pobieranie i wysyłanie pakietów internetowych zostanie kilkukrotnie przerwane. Upewnij się, że aktualnie nie pobierasz ani nie wysyłasz niczego z lub do sieci internet, a następnie kliknij ", ""]},
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Yes", "​"]},
+ {"type": "span", "sectionID": "section3", "elementContent": [", aby zainstalować wirtualne karty sieciowe.", ""]},
     
-    
-    {"type": "source", "elementContent": ["https://forbot.pl/blog/kurs-stm32-8-dma-czyli-bezposredni-dostep-do-pamieci-id8465", "link", "forbot.pl: Kurs-stm32"]},
-    {"type": "source", "elementContent": ["https://helion.pl/ksiazki/powershell-101-zadan-do-zautomatyzowania-adam-pietrzak,pow101.htm#format/d", "book","Helion.pl: PowerShell. 101 zadań do zautomatyzowania"]}
-    
-    
-    
+    {"type": "img", "sectionID": "section3", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/virtualbox-install-part3.webp",
+    "Ostrzeżenie o restartowaniu interfejsów sieciowych podczas instalacji Virtualbox.",
+    "944","372", "KiraTheGames/test/main/virtualbox/virtualbox-install-part3_ORIGINAL.webp"
+    ]},
+   {"type": "span", "sectionID": "section3", "elementContent": ["Może pojawić się następujący komunikat o braku zależności ", ""]},
+       {"type": "span", "sectionID": "section3", "elementContent": ["„Python Core / win32api”", ""]},
+
+       {"type": "span", "sectionID": "section3", "elementContent": ["Jeżeli nie planujesz zarządzać VirtualBox-em za pomocą terminala (CMD, PowerShell) lub za pośrednictwem własnego kodu, to śmiało klikaj ", ""]},
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Yes", "​"]},
+   {"type": "span", "sectionID": "section3", "elementContent": ["]. Przejdziesz do ostatniej strony na której pozostaw wszystkie opcje jako zaznaczone i po kliknięciu ", ""]},
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Next>", "​"]},
+   {"type": "span", "sectionID": "section3", "elementContent": ["rozpocznie się instalacja oprogramowania.", ""]},
+    {"type": "img", "sectionID": "section3", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/virtualbox-install-part4.webp",
+    "Brak zainstalowanego wsparcia dla języka Python i biblioteki win32api.",
+    "944","372", "KiraTheGames/test/main/virtualbox/virtualbox-install-part4_ORIGINAL.webp"
+    ]},
+    {"type": "img", "sectionID": "section3", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/virtualbox-install-part5.webp",
+    "Ostatnia strona instalatora przed rozpoczęciem instalacji",
+    "944","372", "KiraTheGames/test/main/virtualbox/virtualbox-install-part5_ORIGINAL.webp"
+    ]}
     ]
