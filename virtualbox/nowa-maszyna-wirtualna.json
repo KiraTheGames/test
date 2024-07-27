@@ -34,7 +34,7 @@
 
     {"type": "text-block-name", "sectionID": "section2", "elementContent": ["„Inny…”", "​"]},
      {"type": "span", "sectionID": "section2","elementContent":[" i wskaż obraz ISO systemu do instalacji. Jak nie masz jeszcze obrazu ISO lub nie znasz tego rozszerzenia pliku to zapraszam: ",""]},
-    {"type": "link-art", "sectionID": "section2", "elementContent": ["Obrazy ISO Co to i jak je zdobyć", "KURS", "LEKCJA"]},
+    {"type": "link-art", "sectionID": "section2", "elementContent": ["Obrazy ISO - Co to i jak je zdobyć", "Typy i rozszerzenia plików", "LEKCJA"]},
     {"type": "span", "sectionID": "section2","elementContent":["Dodatkowo, pomiń instalację bez nadzoru (",""]},
     {"type": "text-block-name", "sectionID": "section2", "elementContent": ["„Skip unattended Installation”", "​"]},
     {"type": "span", "sectionID": "section2","elementContent":[").",""]},
@@ -73,119 +73,4 @@
     "Podsumowanie tworzenia nowej maszyny",
     "944","531", "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-podsumowanie_ORIGINAL.webp"
     ]},
-
-
-
-
-
-
-
-    
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Nowa", "​"]},
-
-
-  
-    {"type": "p", "sectionID": "section1","elementContent":["Podczas przeprowadzania zajęć lekcyjnych będziesz wykorzystywał zwirtualizowane systemy operacyjne, używając do tego otwartoźródłowego oprogramowania VirtualBox od firmy Oracle. Wirtualizacja to technologia, która pozwala na uruchomienie wielu systemów operacyjnych na jednym fizycznym komputerze, gdzie każdy z nich działa w izolowanym wirtualnym środowisku.",""]},
-   {"type": "span", "sectionID": "section1","elementContent":["Wirtualizacja działa głównie na procesorze i może być wspierana akceleracją sprzętową karty graficznej. ",""]},
-    {"type": "br", "sectionID": "section1"},
-    {"type": "span", "sectionID": "section1","elementContent":[" Dlatego, gdy ",""]},
-    {"type": "b", "sectionID": "section1","elementContent":[" VirtualBox",""]},
-    {"type": "span", "sectionID": "section1","elementContent":["lub",""]},
-    {"type": "b", "sectionID": "section1","elementContent":[" Hyper-V",""]},
-    {"type": "span", "sectionID": "section1","elementContent":[" (dostępny w wersji ",""]},
-    {"type": "bi", "sectionID": "section1","elementContent":[" Windows PRO",""]},
-    {"type": "span", "sectionID": "section1","elementContent":["lub wyższych) zgłosi błąd, że to urządzenie nie wspiera uruchamiania wirtualnych systemów, oznacza to, że wsparcie dla wirtualizacji nie jest dostępne na Twoim procesorze lub jest wyłączone.",""]},
-    
-    
-    
-    
-    {"type": "h2", "sectionID": "section2", "elementContent": ["Wparcie wirtualizacji przez procesor CPU", ""]},
-   {"type": "p", "sectionID": "section2","elementContent":["Do prawidłowego działania systemów gości procesor musi wspierać wirtualizację oraz mieć ją włączoną. Możesz w prosty sposób sprawdzić, czy wirtualizacja na procesorze (CPU) jest włączona za pośrednictwem Menedżera zadań.",""]},
-   {"type": "img", "sectionID": "section2", "elementContent": [
-    "KiraTheGames/test/main/virtualbox/wirtualizacja-menedzer-zadan.webp",
-    "Przedstawienie wirtualizacji w menedżerze zadań.",
-    "1032","695", "KiraTheGames/test/main/virtualbox/wirtualizacja-menedzer-zadan_ORIGINAL.webp"
-    ]},
-    {"type": "span", "sectionID": "section2","elementContent":["Jeżeli u Ciebie wirtualizacja jest wyłączona, będziesz musiał ją włączyć w ",""]},
-   {"type": "b", "sectionID": "section2","elementContent":[" BIOS/UEFI",""]},
-   {"type": "span", "sectionID": "section2","elementContent":[". Uruchom więc ponownie komputer i podczas startu klikaj klawisz odpowiadający uruchomieniu",""]},
-    {"type": "i", "sectionID": "section2","elementContent":["Setup-u",""]},
-    {"type": "span", "sectionID": "section2","elementContent":[", np. ",""]},
-    {"type": "key-combo", "sectionID": "section2", "elementContent": ["F2"]},
-    {"type": "span", "sectionID": "section2","elementContent":["lub",""]},
-    {"type": "key-combo", "sectionID": "section2", "elementContent": ["Delete"]},
-    {"type": "span", "sectionID": "section2","elementContent":[". Następnie będziesz musiał znaleźć opcję powiązaną z wirtualizacją na Twoim procesorze. Przykładowe nazwy to:",""]},
-
-
-    
-    {"type": "list","sectionID": "section2", "elementContent": {"ver":"ul",
-    "listElements":["VT-x dla procesorów Intel",
-    "AMD-V dla procesorów AMD",
-    "SVM Mode",
-    "Virtualization Support ",
-    "Intel Virtualization Technology",
-    "Virtualization Extensions","Vanderpool"] }},   
-
-    {"type": "h2", "sectionID": "section3", "elementContent": ["Instalacja VirtualBox", ""]},
-    {"type": "span", "sectionID": "section3", "elementContent": ["Oprogramowanie do wirtualizacji możesz pobrać z strony ", ""]},
-    {"type": "link","sectionID":"section3","elementContent":["https://www.virtualbox.org/"]},
-    {"type": "span", "sectionID": "section3", "elementContent": ["klikając", ""]},
-    
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["​Windows hosts",""]},
-    
-    {"type": "span", "sectionID": "section3", "elementContent": ["Aby zainstalować VirtualBox-a musisz posiadać uprawnienia administratora ", ""]},
- {"type": "span", "sectionID": "section3", "elementContent": ["Po pobraniu instalatora z oficjalnej strony, uruchom go i kliknij ", ""]},
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Next>", "​"]},
-    
-     {"type": "span", "sectionID": "section3", "elementContent": [", aby przejść dalej. ", ""]},
- {"type": "img", "sectionID": "section3", "elementContent": [
-    "KiraTheGames/test/main/virtualbox/virtualbox-install-part1.webp",
-    "Strona główna instalatora oprogramowania VirtualBox.",
-    "770","607", "KiraTheGames/test/main/virtualbox/virtualbox-install-part1_ORIGINAL.webp"
-    ]},
-
- {"type": "span", "sectionID": "section3", "elementContent": ["Aby zainstalować oprogramowanie w innej niż domyślna lokalizacji dyskowej, wybierz ", ""]},
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Browse", "​"]},
-    
-{"type": "span", "sectionID": "section3", "elementContent": [", następnie z listy wybierz interesujący cię dysk, a potem utwórz na nim nowy katalog o adekwatnej nazwie, np. VirtualBox. W efekcie końcowym uzyskasz ścieżkę do katalogu plików źródłowych oprogramowania do wirtualizacji: 5)", ""]},
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["V:\\VirtualBox", "​"]},
-     {"type": "img", "sectionID": "section3", "elementContent": [
-    "KiraTheGames/test/main/virtualbox/virtualbox-install-part2.webp",
-    "Zmiana lokalizacji instalacji Virtualbox-a",
-    "944","372", "KiraTheGames/test/main/virtualbox/virtualbox-install-part2_ORIGINAL.webp"
-    ]},
-    
-     {"type": "span", "sectionID": "section3", "elementContent": ["Zatwierdź zmiany klikając  ", ""]},
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["OK", "​"]},
-     {"type": "span", "sectionID": "section3", "elementContent": ["i przejdź do kolejnej strony instalatora klikając ", ""]},
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Next>", "​"]},
-    
-
-{"type": "span", "sectionID": "section3", "elementContent": ["Pojawi się ostrzeżenie dotyczące przerwań pracy interfejsów sieciowych, co oznacza, że pobieranie i wysyłanie pakietów internetowych zostanie kilkukrotnie przerwane. Upewnij się, że aktualnie nie pobierasz ani nie wysyłasz niczego z lub do sieci internet, a następnie kliknij ", ""]},
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Yes", "​"]},
- {"type": "span", "sectionID": "section3", "elementContent": [", aby zainstalować wirtualne karty sieciowe.", ""]},
-    
-    {"type": "img", "sectionID": "section3", "elementContent": [
-    "KiraTheGames/test/main/virtualbox/virtualbox-install-part3.webp",
-    "Ostrzeżenie o restartowaniu interfejsów sieciowych podczas instalacji Virtualbox.",
-    "944","372", "KiraTheGames/test/main/virtualbox/virtualbox-install-part3_ORIGINAL.webp"
-    ]},
-   {"type": "span", "sectionID": "section3", "elementContent": ["Może pojawić się następujący komunikat o braku zależności ", ""]},
-       {"type": "i", "sectionID": "section3", "elementContent": ["„Python Core / win32api”", ""]},
-
-       {"type": "span", "sectionID": "section3", "elementContent": ["Jeżeli nie planujesz zarządzać VirtualBox-em za pomocą terminala (CMD, PowerShell) lub za pośrednictwem własnego kodu, to śmiało klikaj ", ""]},
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Yes", "​"]},
-   {"type": "span", "sectionID": "section3", "elementContent": ["]. Przejdziesz do ostatniej strony na której pozostaw wszystkie opcje jako zaznaczone i po kliknięciu ", ""]},
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Next>", "​"]},
-   {"type": "span", "sectionID": "section3", "elementContent": ["rozpocznie się instalacja oprogramowania.", ""]},
-    {"type": "img", "sectionID": "section3", "elementContent": [
-    "KiraTheGames/test/main/virtualbox/virtualbox-install-part4.webp",
-    "Brak zainstalowanego wsparcia dla języka Python i biblioteki win32api.",
-    "944","372", "KiraTheGames/test/main/virtualbox/virtualbox-install-part4_ORIGINAL.webp"
-    ]},
-    {"type": "img", "sectionID": "section3", "elementContent": [
-    "KiraTheGames/test/main/virtualbox/virtualbox-install-part5.webp",
-    "Ostatnia strona instalatora przed rozpoczęciem instalacji",
-    "944","372", "KiraTheGames/test/main/virtualbox/virtualbox-install-part5_ORIGINAL.webp"
-    ]}
     ]
