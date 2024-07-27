@@ -44,11 +44,11 @@
     {"type": "link","sectionID":"section3","elementContent":["https://www.virtualbox.org/"]},
     {"type": "span", "sectionID": "section3", "elementContent": ["klikając", ""]},
     
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Właściwości", "​Windows hosts"]},
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["​Windows hosts",""]},
     
     {"type": "span", "sectionID": "section3", "elementContent": ["Aby zainstalować VirtualBox-a musisz posiadać uprawnienia administratora ", ""]},
  {"type": "span", "sectionID": "section3", "elementContent": ["Po pobraniu instalatora z oficjalnej strony uruchom go i kliknij ", ""]},
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Właściwości", "​Windows hosts"]},
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Next>", "​"]},
     
      {"type": "span", "sectionID": "section3", "elementContent": ["Po pobraniu instalatora z oficjalnej strony uruchom go i kliknij  ", ""]},
 
