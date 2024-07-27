@@ -1,6 +1,16 @@
 [
     {"type": "h2", "sectionID": "section1", "elementContent": ["Wirtualizacja systemów gości"]},
     {"type": "p", "sectionID": "section1","elementContent":["Podczas przeprowadzania zajęć lekcyjnych będziesz wykorzystywał zwirtualizowane systemy operacyjne, używając do tego otwartoźródłowego oprogramowania VirtualBox od firmy Oracle. Wirtualizacja to technologia, która pozwala na uruchomienie wielu systemów operacyjnych na jednym fizycznym komputerze, gdzie każdy z nich działa w izolowanym wirtualnym środowisku.",""]},
+   {"type": "span", "sectionID": "section2","elementContent":["Wirtualizacja działa głównie na procesorze i może być wspierana akceleracją sprzętową karty graficznej. Dlatego, gdy ",""]},
+    {"type": "b", "sectionID": "section2","elementContent":[" VirtualBox",""]},
+    {"type": "span", "sectionID": "section2","elementContent":["lub",""]},
+    {"type": "b", "sectionID": "section2","elementContent":[" Hyper-V",""]},
+    {"type": "span", "sectionID": "section2","elementContent":[" (dostępny w wersji ",""]},
+    {"type": "i", "sectionID": "section2","elementContent":[" Windows PRO",""]},
+    {"type": "span", "sectionID": "section2","elementContent":["lub wyższych) zgłosi błąd, że to urządzenie nie wspiera uruchamiania wirtualnych systemów, oznacza to, że wsparcie dla wirtualizacji nie jest dostępne na Twoim procesorze lub jest wyłączone.",""]},
+    
+    
+    
     
     {"type": "h2", "sectionID": "section2", "elementContent": ["Wparcie wirtualizacji przez procesor CPU", ""]},
    {"type": "p", "sectionID": "section2","elementContent":["Do prawidłowego działania systemów gości procesor musi wspierać wirtualizację oraz mieć ją włączoną. Możesz w prosty sposób sprawdzić, czy wirtualizacja na procesorze (CPU) jest włączona za pośrednictwem Menedżera zadań.",""]},
@@ -37,6 +47,24 @@
     {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Właściwości", "​Windows hosts"]},
     
     {"type": "span", "sectionID": "section3", "elementContent": ["Aby zainstalować VirtualBox-a musisz posiadać uprawnienia administratora ", ""]},
+ {"type": "span", "sectionID": "section3", "elementContent": ["Po pobraniu instalatora z oficjalnej strony uruchom go i kliknij ", ""]},
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Właściwości", "​Windows hosts"]},
+    
+     {"type": "span", "sectionID": "section3", "elementContent": ["Po pobraniu instalatora z oficjalnej strony uruchom go i kliknij  ", ""]},
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
 
 {"type": "p", "sectionID": "section1","elementContent":["",""]},
