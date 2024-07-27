@@ -33,25 +33,56 @@
      {"type": "span", "sectionID": "section2","elementContent":[" wybierz ",""]},
 
     {"type": "text-block-name", "sectionID": "section2", "elementContent": ["„Inny…”", "​"]},
-     {"type": "span", "sectionID": "section1","elementContent":[" i wskaż obraz ISO systemu do instalacji. Jak nie masz jeszcze obrazu ISO lub nie znasz tego rozszerzenia pliku to zapraszam: ",""]},
-    {"type": "link-art", "sectionID": "section2", "elementContent": ["Obrazy ISO Co to i jak je zdobyć", "PCI", "Zasady działania PCI Express"]},
+     {"type": "span", "sectionID": "section2","elementContent":[" i wskaż obraz ISO systemu do instalacji. Jak nie masz jeszcze obrazu ISO lub nie znasz tego rozszerzenia pliku to zapraszam: ",""]},
+    {"type": "link-art", "sectionID": "section2", "elementContent": ["Obrazy ISO Co to i jak je zdobyć", "KURS", "LEKCJA"]},
     {"type": "span", "sectionID": "section2","elementContent":["Dodatkowo, pomiń instalację bez nadzoru (",""]},
     {"type": "text-block-name", "sectionID": "section2", "elementContent": ["„Skip unattended Installation”", "​"]},
     {"type": "span", "sectionID": "section2","elementContent":[").",""]},
-    
+    {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna.webp",
+    "Podstawowe ustawienia nowej maszyny",
+    "944","536", "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section2","elementContent":["W kolejnym kroku przydziel cześć zasobów swojego fizycznego komputera nazywanego również ",""]},
+    {"type": "b", "sectionID": "section2","elementContent":["Gospodarzem",""]},
+    {"type": "span", "sectionID": "section2","elementContent":[",pamiętaj o  tym że",""]},
+    {"type": "u", "sectionID": "section2","elementContent":["będziesz musiał jednocześnie uruchamiać wiele maszyn i na nich pracować",""]},
+    {"type": "span", "sectionID": "section2","elementContent":["dlatego przemyśl ten etap (w razie co zawsze możesz to w późniejszym czasie zmienić w ustawieniach maszyny).",""]},
+{"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-RAM.webp",
+    "Przydzielanie zasobów RAM-u i Procesora",
+    "944","532", "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-RAM_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section2","elementContent":["Następnie utwórz nowy wirtualny dysk twardy. Jeśli zaznaczysz opcję",""]},
+    {"type": "span", "sectionID": "section2","elementContent":["„Pre-allocate Full Size” ",""]},
+    {"type": "span", "sectionID": "section2","elementContent":[", plik dysku nie będzie dynamiczny i",""]},
+    {"type": "u", "sectionID": "section2","elementContent":["faktycznie zajmie 50 GB na dysku",""]},
+    {"type": "span", "sectionID": "section2","elementContent":[". Ta opcja jest dobra, gdy wykorzystywany jest fizyczny nośnik",""]},
+    {"type": "i", "sectionID": "section2","elementContent":["HDD",""]},
+    {"type": "span", "sectionID": "section2","elementContent":[".W przypadku stosowania",""]},
+    {"type": "i", "sectionID": "section2","elementContent":["SSD",""]},
+    {"type": "span", "sectionID": "section2","elementContent":["jako fizycznego nośnika, różnicy w wydajności maszyn nie zaobserwujesz, ale przy statycznej alokacji zmarnujesz potencjalne miejsce na dysku gospodarza.",""]},
+    {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-Dysk.webp",
+    "Tworzenie wirtualnego dysku",
+    "944","532", "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-Dysk_ORIGINAL.webp"
+    ]},
+        {"type": "span", "sectionID": "section2","elementContent":["W końcowej karcie zobaczysz wszystkie podjęte przez ciebie wybory podczas kreacji.",""]},
+   {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-podsumowanie.webp",
+    "Podsumowanie tworzenia nowej maszyny",
+    "944","531", "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-podsumowanie_ORIGINAL.webp"
+    ]},
 
+
+
+
+
+
+
+    
     {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Nowa", "​"]},
 
-
-
-
-
-
-
-
-
-
-    
 
   
     {"type": "p", "sectionID": "section1","elementContent":["Podczas przeprowadzania zajęć lekcyjnych będziesz wykorzystywał zwirtualizowane systemy operacyjne, używając do tego otwartoźródłowego oprogramowania VirtualBox od firmy Oracle. Wirtualizacja to technologia, która pozwala na uruchomienie wielu systemów operacyjnych na jednym fizycznym komputerze, gdzie każdy z nich działa w izolowanym wirtualnym środowisku.",""]},
