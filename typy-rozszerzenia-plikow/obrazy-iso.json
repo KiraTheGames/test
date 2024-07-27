@@ -1,12 +1,12 @@
 [
     {"type": "h2", "sectionID": "section1", "elementContent": ["Co to jest ISO"]},
 
-    {"type": "span", "sectionID": "section1","elementContent":["Do przeprowadzenia instalacji systemu będziesz potrzebować obrazu dysku ( ",""]},
-    {"type": "bi", "sectionID": "section1","elementContent":["ISO ",""]},
+    {"type": "span", "sectionID": "section1","elementContent":["Do przeprowadzenia instalacji systemu będziesz potrzebować obrazu dysku (",""]},
+    {"type": "bi", "sectionID": "section1","elementContent":["ISO",""]},
     {"type": "span", "sectionID": "section1","elementContent":["). Plik ",""]},
-    {"type": "bi", "sectionID": "section1","elementContent":["ISO ",""]},
+    {"type": "bi", "sectionID": "section1","elementContent":["ISO",""]},
     {"type": "span", "sectionID": "section1","elementContent":[", często nazywany  ",""]},
-    {"type": "i", "sectionID": "section1","elementContent":["obrazem ISO ",""]},
+    {"type": "i", "sectionID": "section1","elementContent":["obrazem ISO",""]},
     {"type": "span", "sectionID": "section1","elementContent":[", to pojedynczy plik, który stanowi doskonałą reprezentację całej płyty CD, DVD lub BD. Cała zawartość dysku może zostać precyzyjnie skopiowana w jednym pliku ISO.",""]},
 
 
