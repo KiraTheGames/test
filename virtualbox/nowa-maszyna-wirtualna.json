@@ -1,5 +1,6 @@
 [
     {"type": "h2", "sectionID": "section1", "elementContent": ["Konfiguracja globalna i maszyny w VirtualBox"]},
+    {"type": "b", "sectionID": "section1", "elementContent": ["Word: WindowsServer.docx"]},
     {"type": "br", "sectionID": "section1"},
 
     {"type": "br", "sectionID": "section1"},
