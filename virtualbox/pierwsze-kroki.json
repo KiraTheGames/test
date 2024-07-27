@@ -23,35 +23,25 @@
     
     {"type": "list","sectionID": "section2", "elementContent": {"ver":"ul",
     "listElements":["VT-x dla procesorów Intel",
-    "AMD-V dla procesorów AMD."] }},   
+    "AMD-V dla procesorów AMD",
+    "SVM Mode",
+    "Virtualization Support ",
+    "Intel Virtualization Technology",
+    "Virtualization Extensions","Vanderpool"] }},   
 
-
-
+    {"type": "h2", "sectionID": "section3", "elementContent": ["Instalacja VirtualBox", ""]},
+    {"type": "span", "sectionID": "section3", "elementContent": ["Oprogramowanie do wirtualizacji możesz pobrać z strony ", ""]},
     {"type": "link","sectionID":"section3","elementContent":["https://www.virtualbox.org/"]},
+    {"type": "span", "sectionID": "section3", "elementContent": ["klikając", ""]},
+    
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Właściwości", "​Windows hosts"]},
+    
+    {"type": "span", "sectionID": "section3", "elementContent": ["Aby zainstalować VirtualBox-a musisz posiadać uprawnienia administratora ", ""]},
+
 
 {"type": "p", "sectionID": "section1","elementContent":["",""]},
 
 
-
-
-
-
-
-
-
-    
-    
-    
-    {"type": "span", "sectionID": "section2", "elementContent": ["Aby otworzyć Menadżer Urządzeń, wystarczy wpisać", ""]},
-    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["devmgmt.msc", "xD"]},
-    {"type": "span", "sectionID": "section2", "elementContent": ["w wyszukiwarce menu Start. Alternatywnie użyć skrótu klawiszowego", ""]},
-    {"type": "key-combo", "sectionID": "section2", "elementContent": ["Windows", "X"]},
-    {"type": "span", "sectionID": "section2", "elementContent": ["i wybrać Menadżer Urządzeń z listy.",""]},
-    {"type": "img", "sectionID": "section2", "elementContent": [
-    "KiraTheGames/test/main/menadżer-zadań-sposób-uruchomienia.webp",
-    "Pasek narzędzi po przyciśnieciu prawego przycisku myszki na ikonę start windowsa. Alternatywnie skrót klawiszowy Windows + X.",
-    "209","613"
-    ]},
     
     {"type": "h2", "sectionID": "section3", "elementContent": ["Zarządzanie sterownikami", ""]},
     {"type": "span", "sectionID": "section3", "elementContent": ["Menadżer Urządzeń pozwala na aktualizację sterowników dla poszczególnych komponentów. Aby to zrobić, należy kliknąć prawym przyciskiem myszy na urządzenie i wybrać opcję", ""]},
