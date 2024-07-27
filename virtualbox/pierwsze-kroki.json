@@ -25,7 +25,21 @@
     "listElements":["VT-x dla procesorów Intel",
     "AMD-V dla procesorów AMD."] }},   
 
+
+
+    {"type": "link","sectionID3","elementContent":["https://www.virtualbox.org/"]},
+
 {"type": "p", "sectionID": "section1","elementContent":["",""]},
+
+
+
+
+
+
+
+
+
+    
     
     
     {"type": "span", "sectionID": "section2", "elementContent": ["Aby otworzyć Menadżer Urządzeń, wystarczy wpisać", ""]},
