@@ -61,7 +61,7 @@
     {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Browse", "​"]},
     
 {"type": "span", "sectionID": "section3", "elementContent": [", następnie z listy wybierz interesujący cię dysk, a potem utwórz na nim nowy katalog o adekwatnej nazwie, np. VirtualBox. W efekcie końcowym uzyskasz ścieżkę do katalogu plików źródłowych oprogramowania do wirtualizacji: 5)", ""]},
-    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["V:\VirtualBox", "​"]},
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["V:\\VirtualBox", "​"]},
      {"type": "img", "sectionID": "section3", "elementContent": [
     "KiraTheGames/test/main/virtualbox/virtualbox-install-part2.webp",
     "Zmiana lokalizacji instalacji Virtualbox-a",
