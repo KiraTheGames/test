@@ -1,16 +1,10 @@
 [
     {"type": "h2", "sectionID": "section1", "elementContent": ["Konfiguracja globalna i maszyny w VirtualBox"]},
-    {"type": "b", "sectionID": "section1", "elementContent": ["Word: WindowsServer.docx"]},
-    {"type": "br", "sectionID": "section1"},
 
-    {"type": "br", "sectionID": "section1"},
-    {"type": "br", "sectionID": "section1"},
-    {"type": "br", "sectionID": "section1"},
-    {"type": "br", "sectionID": "section1"},
-    {"type": "br", "sectionID": "section1"},
-    {"type": "br", "sectionID": "section1"},
-    {"type": "br", "sectionID": "section1"},
-    {"type": "br", "sectionID": "section1"},
+    {"type": "span", "sectionID": "section1","elementContent":[" (Uruchom VirtualBox-a i przejdź do globalnych ustawieni ( alternatywnie skrót klawiszowy ",""]},
+    {"type": "key-combo", "sectionID": "section2", "elementContent": ["Ctrl","G"]},
+    {"type": "span", "sectionID": "section1","elementContent":[")",""]},
+    
 
 
 
