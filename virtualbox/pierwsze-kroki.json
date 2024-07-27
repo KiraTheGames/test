@@ -1,7 +1,9 @@
 [
     {"type": "h2", "sectionID": "section1", "elementContent": ["Wirtualizacja systemów gości"]},
     {"type": "p", "sectionID": "section1","elementContent":["Podczas przeprowadzania zajęć lekcyjnych będziesz wykorzystywał zwirtualizowane systemy operacyjne, używając do tego otwartoźródłowego oprogramowania VirtualBox od firmy Oracle. Wirtualizacja to technologia, która pozwala na uruchomienie wielu systemów operacyjnych na jednym fizycznym komputerze, gdzie każdy z nich działa w izolowanym wirtualnym środowisku.",""]},
-   {"type": "span", "sectionID": "section1","elementContent":["Wirtualizacja działa głównie na procesorze i może być wspierana akceleracją sprzętową karty graficznej. Dlatego, gdy ",""]},
+   {"type": "span", "sectionID": "section1","elementContent":["Wirtualizacja działa głównie na procesorze i może być wspierana akceleracją sprzętową karty graficznej. ",""]},
+    {"type": "br", "sectionID": "section1"},
+    {"type": "span", "sectionID": "section1","elementContent":[" Dlatego, gdy ",""]},
     {"type": "b", "sectionID": "section1","elementContent":[" VirtualBox",""]},
     {"type": "span", "sectionID": "section1","elementContent":["lub",""]},
     {"type": "b", "sectionID": "section1","elementContent":[" Hyper-V",""]},
