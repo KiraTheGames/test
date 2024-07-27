@@ -8,6 +8,11 @@
 {"type": "list","sectionID": "section2", "elementContent": {"ver":"ul",
     "listElements":["VT-x dla procesorów Intel",
     "AMD-V dla procesorów AMD."] }},   
+    {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/wirtualizacja-menedzer-zadan.webp",
+    "Przedstawienie wirtualizacji w menedżerze zadań.",
+    "1032","695", "KiraTheGames/test/main/virtualbox/wirtualizacja-menedzer-zadan_ORIGINAL.webp"
+    ]},
 
 {"type": "p", "sectionID": "section1","elementContent":["",""]},
     
