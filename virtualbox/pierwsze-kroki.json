@@ -6,7 +6,7 @@
     {"type": "span", "sectionID": "section1","elementContent":["lub",""]},
     {"type": "b", "sectionID": "section1","elementContent":[" Hyper-V",""]},
     {"type": "span", "sectionID": "section1","elementContent":[" (dostępny w wersji ",""]},
-    {"type": "i", "sectionID": "section1","elementContent":[" Windows PRO",""]},
+    {"type": "bi", "sectionID": "section1","elementContent":[" Windows PRO",""]},
     {"type": "span", "sectionID": "section1","elementContent":["lub wyższych) zgłosi błąd, że to urządzenie nie wspiera uruchamiania wirtualnych systemów, oznacza to, że wsparcie dla wirtualizacji nie jest dostępne na Twoim procesorze lub jest wyłączone.",""]},
     
     
@@ -84,7 +84,7 @@
     "944","372", "KiraTheGames/test/main/virtualbox/virtualbox-install-part3_ORIGINAL.webp"
     ]},
    {"type": "span", "sectionID": "section3", "elementContent": ["Może pojawić się następujący komunikat o braku zależności ", ""]},
-       {"type": "span", "sectionID": "section3", "elementContent": ["„Python Core / win32api”", ""]},
+       {"type": "i", "sectionID": "section3", "elementContent": ["„Python Core / win32api”", ""]},
 
        {"type": "span", "sectionID": "section3", "elementContent": ["Jeżeli nie planujesz zarządzać VirtualBox-em za pomocą terminala (CMD, PowerShell) lub za pośrednictwem własnego kodu, to śmiało klikaj ", ""]},
     {"type": "text-block-name", "sectionID": "section3", "elementContent": ["Yes", "​"]},
