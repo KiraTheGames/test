@@ -4,15 +4,21 @@
     
     {"type": "h2", "sectionID": "section2", "elementContent": ["Wparcie wirtualizacji przez procesor CPU", ""]},
    {"type": "p", "sectionID": "section2","elementContent":["Do prawidłowego działania systemów gości procesor musi wspierać wirtualizację oraz mieć ją włączoną. Możesz w prosty sposób sprawdzić, czy wirtualizacja na procesorze (CPU) jest włączona za pośrednictwem Menedżera zadań.",""]},
-   {"type": "p", "sectionID": "section2","elementContent":["Jeżeli u Ciebie wirtualizacja jest wyłączona, będziesz musiał ją włączyć w BIOS/UEFI. Uruchom więc ponownie komputer i podczas startu klikaj klawisz odpowiadający uruchomieniu Setup-u, np. [F2] lub [Delete]. Następnie będziesz musiał znaleźć opcję powiązaną z wirtualizacją na Twoim procesorze. Przykładowe nazwy to:",""]},
-{"type": "list","sectionID": "section2", "elementContent": {"ver":"ul",
+   {"type": "span", "sectionID": "section2","elementContent":["Jeżeli u Ciebie wirtualizacja jest wyłączona, będziesz musiał ją włączyć w ",""]},
+   {"type": "b", "sectionID": "section2","elementContent":[" BIOS/UEFI",""]},
+   {"type": "span", "sectionID": "section2","elementContent":[". Uruchom więc ponownie komputer i podczas startu klikaj klawisz odpowiadający uruchomieniu",""]},
+    {"type": "i", "sectionID": "section2","elementContent":["Setup-u",""]},
+    {"type": "span", "sectionID": "section2","elementContent":[", np. ",""]},
+    {"type": "key-combo", "sectionID": "section2", "elementContent": ["F2"]},
+    {"type": "span", "sectionID": "section2","elementContent":["lub",""]},
+    {"type": "key-combo", "sectionID": "section2", "elementContent": ["Delete"]},
+    {"type": "span", "sectionID": "section2","elementContent":[". Następnie będziesz musiał znaleźć opcję powiązaną z wirtualizacją na Twoim procesorze. Przykładowe nazwy to:",""]},
+
+
+    
+    {"type": "list","sectionID": "section2", "elementContent": {"ver":"ul",
     "listElements":["VT-x dla procesorów Intel",
     "AMD-V dla procesorów AMD."] }},   
-    {"type": "img", "sectionID": "section2", "elementContent": [
-    "KiraTheGames/test/main/virtualbox/wirtualizacja-menedzer-zadan.webp",
-    "Przedstawienie wirtualizacji w menedżerze zadań.",
-    "1032","695", "KiraTheGames/test/main/virtualbox/wirtualizacja-menedzer-zadan_ORIGINAL.webp"
-    ]},
 
 {"type": "p", "sectionID": "section1","elementContent":["",""]},
     
