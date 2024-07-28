@@ -75,7 +75,7 @@
     {"type": "span", "sectionID": "section3","elementContent":["lub z oficjalnej strony autorów ",""]},
     {"type": "link","sectionID":"section3","elementContent":["https://www.rarlab.com/download.htm"]},
     {"type": "br", "sectionID": "section3"},
-    {"type": "span", "sectionID": "section3","elementContent":["Hasło do archiwum to ",""]},
+    {"type": "span", "sectionID": "section3","elementContent":["Hasło do archiwum to: ",""]},
     {"type": "text-block-name", "sectionID": "section3","elementContent":["basewin.pl",""]},
      {"type": "br", "sectionID": "section3"},
     {"type": "span", "sectionID": "section3","elementContent":["Po wypakowaniu przenieś plik do katalogu z obrazami ISO.",""]},
