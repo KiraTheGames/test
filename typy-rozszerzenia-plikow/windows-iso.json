@@ -55,7 +55,7 @@
     "Pobieranie plików instalatora Windows",
     "944","745", "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-pobieranie_ORIGINAL.webp"
     ]},
-    {"type": "span", "sectionID": "section2","elementContent":["Po pobraniu plików zostaną one spakowane do obrazu ISO, który zostanie umieszczony w wcześniej podanej lokalizacji. Następnie pojawi się okienko z możliwością nagrania systemu na płytę DVD. Po kliknięciu przycisku,",""]}
+    {"type": "span", "sectionID": "section2","elementContent":["Po pobraniu plików zostaną one spakowane do obrazu ISO, który zostanie umieszczony w wcześniej podanej lokalizacji. Następnie pojawi się okienko z możliwością nagrania systemu na płytę DVD. Po kliknięciu przycisku,",""]},
     {"type": "text-block-name", "sectionID": "section3", "elementContent": ["„Zakończ”", "​"]},
     {"type": "span", "sectionID": "section2","elementContent":[", instalator przeprowadzi jeszcze czyszczenie plików tymczasowych i zakończy swoją pracę.",""]},
     {"type": "span", "sectionID": "section2","elementContent":["Na kolejnej stronie rozpocznie się pobieranie plików.",""]},
