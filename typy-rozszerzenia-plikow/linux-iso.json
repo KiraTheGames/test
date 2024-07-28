@@ -2,6 +2,8 @@
     {"type": "h2", "sectionID": "section1", "elementContent": ["Obrazy systemów linux"]},
 
     {"type": "span", "sectionID": "section1","elementContent":["Poniżej widnieją linki do różnych dystrybucji opartch o jądro GNU Linux: ",""]},
+    {"type": "br", "sectionID": "section1"},
+    
     {"type": "card-box", "sectionID": "section1","elementContent":["Ubuntu ","KiraTheGames/test/main/typy-rozszerzenia-plikow/linux/Ubuntu_logo.webp","https://ubuntu.com/download"]},
     {"type": "card-box", "sectionID": "section1","elementContent":["CentOS ","KiraTheGames/test/main/typy-rozszerzenia-plikow/linux/CentOS_logo.webp","https://www.centos.org/download/"]},
 
