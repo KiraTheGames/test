@@ -10,9 +10,17 @@
     {"type": "span", "sectionID": "section1","elementContent":[", to pojedynczy plik, który stanowi doskonałą reprezentację całej płyty CD, DVD lub BD. Cała zawartość dysku może zostać precyzyjnie skopiowana w jednym pliku ISO.",""]},
 
 
-    {"type": "h2", "sectionID": "section1", "elementContent": ["Jak system operacyjny obsługuje pliki ISO?"]},
+    {"type": "h2", "sectionID": "section2", "elementContent": ["Jak system operacyjny obsługuje pliki ISO?"]},
     
     {"type": "span", "sectionID": "section2","elementContent":["Skoro plik ISO ma być idealnym klonem płyty CD, DVD lub BD, system uzna, że pomimo braku napędu optycznego została włożona płyta instalacyjna. W związku z tym system Windows domyślnie odtworzy jej zawartość w eksploratorze plików, pod warunkiem, że nie zawiera ona skryptu autorun. Jeśli jednak taki skrypt istnieje, to właśnie on zostanie domyślnie uruchomiony.",""]},
+     {"type": "br", "sectionID": "section2"},
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["Instalacja", "​"]},
+    {"type": "span", "sectionID": "section2","elementContent":[" - da dokładnie ten sam efekt co bozpośrednie uruchomienie pliku iso lub zamontowanego obrazu.",""]},
+     {"type": "br", "sectionID": "section2"},
+    
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["Nagraj", "​"]},
+    {"type": "span", "sectionID": "section2","elementContent":[" - uruchomi kreator nagrywania płytyu CD, DVD, BD jeżeli masz w napedzie optycznym włożony nośnik.",""]},
+    
     {"type": "img", "sectionID": "section2", "elementContent": [
     "KiraTheGames/test/main/typy-rozszerzenia-plikow/ISO_WIN.webp",
     "Tworzenie wirtualnego dysku",
