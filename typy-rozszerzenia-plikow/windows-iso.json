@@ -4,16 +4,101 @@
     {"type": "span", "sectionID": "section1","elementContent":["Obrazy systemów z rodziny Windows możesz pobrać np. z:",""]},
     {"type": "br", "sectionID": "section1"},
     {"type": "span", "sectionID": "section1","elementContent":["Oficjalnego źródła: ",""]},
-    {"type": "link","sectionID":"section3","elementContent":["https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver?wa=wsignin1.0"]},
+    {"type": "link","sectionID":"section1","elementContent":["https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver?wa=wsignin1.0"]},
     {"type": "br", "sectionID": "section1"},
     {"type": "span", "sectionID": "section1","elementContent":["Alternatyw archiwizujących windowsy w formacie ISO: ",""]},
     {"type": "br", "sectionID": "section1"},
     {"type": "link","sectionID":"section1","elementContent":["https://basewin.pl/"]},
+    {"type": "span", "sectionID": "section1","elementContent":[" oraz",""]},
     {"type": "link","sectionID":"section1","elementContent":["https://winiso.pl/"]},
-
     {"type": "span", "sectionID": "section1","elementContent":["Wymienione strony archiwizujące posiadają obrazy zgodne z algorytmem",""]},
     {"type": "b", "sectionID": "section1","elementContent":["SHA",""]},
-    {"type": "span", "sectionID": "section1","elementContent":["(Secure Hash Algorithm), który służy do porównywania skrótów plików lub danych. Te obrazy są dostępne dla plików oficjalnych dystrybutorów i są prostsze w użytkowaniu.",""]}
+    {"type": "span", "sectionID": "section1","elementContent":["(Secure Hash Algorithm), który służy do porównywania skrótów plików lub danych. Te obrazy są dostępne dla plików oficjalnych dystrybutorów i są prostsze w użytkowaniu.",""]},
     
+    {"type": "h2", "sectionID": "section2", "elementContent": ["Przygotowanie pliku ISO Windows 10 z pomocą oficjalnego narzędzia Microsoft-u"]},
+    {"type": "span", "sectionID": "section2","elementContent":["Przejdź na poniższą stronę i pobierz narzędzie:",""]},
+    {"type": "br", "sectionID": "section2"},
+    {"type": "link","sectionID":"section2","elementContent":["https://www.microsoft.com/pl-pl/software-download/windows10?msockid=1c6fa4861d626f3d3670b0011ce96e6c"]},
+    {"type": "span", "sectionID": "section2","elementContent":["Po uruchomieniu pliku .exe program przez chwilę będzie przygotowywał składniki do przeprowadzenia procesów tworzenia bootowalnej instalki lub pliku ISO. Aby przejść dalej, musisz zaakceptować postanowienia licencyjne. Następnie ponownie zostaną przygotowane składniki.",""]},
+    {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-eula.webp",
+    "Pierwsza strona kreatora z postanowieniami licencyjnymi",
+    "944","745", "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-eula_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section2","elementContent":["Wybieramy opcję utworzenia nośnika instalacyjnego.",""]},
+     {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-nosnik.webp",
+    "Wybór pomiedzy aktualizacją aktualnego windowsa a utworzeniem obrazu ISO",
+    "944","743", "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-nosnik_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section2","elementContent":["Na kolejnej stronie możesz wybrać język, wersję i architekturę 32 bitową lub 64 bitową.",""]},
+    {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-jezyk.webp",
+    "Wybór języka i architektury systemu",
+    "944","746", "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-jezyk_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section2","elementContent":["Kolejnym wyborem który musisz dokonać to zmiana z Dysku flash USB na Plik ISO:",""]},
+    {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-output.webp",
+    "Wybór pomiedzy dyskiem flash USB a plikiem ISO",
+    "944","746", "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-output_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section2","elementContent":["Wybieramy lokalizację zapisu obrazu ISO, zmieniając nazwę pliku na bardziej precyzyjną, możesz dodać jeszcze wersję Windows-a np.: 22h2",""]},
+     {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-lokalizacja.webp",
+    "Lokalizacja zapisu pliku ISO",
+    "944","531", "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-lokalizacja_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section2","elementContent":["Na kolejnej stronie rozpocznie się pobieranie plików.",""]},
+{"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-pobieranie.webp",
+    "Pobieranie plików instalatora Windows",
+    "944","745", "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-pobieranie_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section2","elementContent":["Po pobraniu plików zostaną one spakowane do obrazu ISO, który zostanie umieszczony w wcześniej podanej lokalizacji. Następnie pojawi się okienko z możliwością nagrania systemu na płytę DVD. Po kliknięciu przycisku,",""]}
+    {"type": "text-block-name", "sectionID": "section3", "elementContent": ["„Zakończ”", "​"]},
+    {"type": "span", "sectionID": "section2","elementContent":[", instalator przeprowadzi jeszcze czyszczenie plików tymczasowych i zakończy swoją pracę.",""]},
+    {"type": "span", "sectionID": "section2","elementContent":["Na kolejnej stronie rozpocznie się pobieranie plików.",""]},
+     {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-end.webp",
+    "Kreator ponownie na koniec zaproponuje przygotowanie bootowalnego pendrive USB z instalacją Windows",
+    "944","747", "KiraTheGames/test/main/typy-rozszerzenia-plikow/kreator-iso-ms-end_ORIGINAL.webp"
+    ]},
+
     
+    {"type": "h2", "sectionID": "section3", "elementContent": ["Gotowe obraz ISO z basewin.pl"]},
+
+    {"type": "span", "sectionID": "section3","elementContent":["Przejdź na stronę główną ",""]},
+    {"type": "link","sectionID":"section3","elementContent":["https://basewin.pl/"]},
+    {"type": "span", "sectionID": "section3","elementContent":["), a następnie wybierz odpowiednią wersję systemu, na przykład Windows 10. Na kolejnej stronie kliknij link „Windows 10 oryginalne obrazy” i wybierz najnowsze archiwum (zazwyczaj będzie to pierwsze od góry). Pobierz wersję 64-bitową archiwum .RAR, a następnie wybierz hosting, z którego będzie ci wygodniej pobierać. Aby uniknąć możliwych błędów przy wypakowywaniu zawartości, zainstaluj oprogramowanie WinRAR ze strony",""]},
+    {"type": "link","sectionID":"section3","elementContent":["https://www.win-rar.com/start.html?&L=12"]},
+    {"type": "span", "sectionID": "section3","elementContent":["lub z oficjalnej strony autorów ",""]},
+    {"type": "link","sectionID":"section3","elementContent":["https://www.rarlab.com/download.htm"]},
+    {"type": "br", "sectionID": "section3"},
+    {"type": "span", "sectionID": "section3","elementContent":["Hasło do archiwum to ",""]},
+    {"type": "text-block-name", "sectionID": "section3","elementContent":["basewin.pl",""]},
+     {"type": "br", "sectionID": "section3"},
+    {"type": "span", "sectionID": "section3","elementContent":["Po wypakowaniu przenieś plik do katalogu z obrazami ISO.",""]},
+     {"type": "br", "sectionID": "section3"},
+    {"type": "span", "sectionID": "section3","elementContent":["W ten sposób mamy już Windows 10 z dwóch źródeł. Zauważ, że wersja z BaseWin waży więcej niż ta od Microsoftu. Wynika to z różnicy w stopniu kompresji plików w obrazie ISO. Dzięki mniejszej kompresji plik z BaseWin zainstaluje się szybciej. Podczas testu wersja od MS przygotowywała pliki do instalacji na poziomie 32%, gdy obraz z alternatywnego źródła zakończył pracę i uruchomił konfigurację systemu.",""]},
+ {"type": "img", "sectionID": "section3", "elementContent": [
+    "KiraTheGames/test/main/typy-rozszerzenia-plikow/pliki-iso-1.webp",
+    "Pliki ISO z Microsoft i BaseWin",
+    "945","87", "KiraTheGames/test/main/typy-rozszerzenia-plikow/pliki-iso-1_ORIGINAL.webp"
+    ]},
+
+     {"type": "h2", "sectionID": "section4", "elementContent": ["Gotowe obraz ISO z winiso.pl"]},
+
+    {"type": "span", "sectionID": "section4","elementContent":["Przejdź na stronę główną ",""]},
+    {"type": "link","sectionID":"section4","elementContent":["https://winiso.pl/"]},
+    {"type": "span", "sectionID": "section4","elementContent":[" i z sekcji listy dostępnych systemów… wybierz np.: Windows 10. Kliknij na najnowszą wersje pliku następnie wybierz architekturę 32 bitową lub 64 bitową po czym pobierz plik.",""]},
+     {"type": "br", "sectionID": "section4"},
+    {"type": "span", "sectionID": "section4","elementContent":["Teraz mamy już trzy pliki ISO z wszystkich wymienionych źródeł.",""]},
+     {"type": "br", "sectionID": "section4"},
+    {"type": "span", "sectionID": "section4","elementContent":["W testach okazuje się że obraz ISO z winiso.pl zainstalował się intersubiektywnie w podobnym czasie co wersja z basewin.pl i obiektywnie jest trochę lżejszy o około 728MB.",""]},
+    {"type": "img", "sectionID": "section4", "elementContent": [
+    "KiraTheGames/test/main/typy-rozszerzenia-plikow/pliki-iso-2.webp",
+    "Pliki ISO z Microsoft i BaseWin oraz WinISO",
+    "945","112", "KiraTheGames/test/main/typy-rozszerzenia-plikow/pliki-iso-2_ORIGINAL.webp"
+    ]}
 ]
