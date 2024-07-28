@@ -1,0 +1,84 @@
+[
+    {"type": "h2", "sectionID": "section1", "elementContent": ["Obrazy systemów Windows"]},
+
+    {"type": "span", "sectionID": "section1","elementContent":["Do przeprowadzenia instalacji systemu będziesz potrzebować obrazu dysku ( ",""]},
+    {"type": "bi", "sectionID": "section1","elementContent":["ISO ",""]},
+    {"type": "span", "sectionID": "section1","elementContent":["). Plik ",""]},
+    {"type": "bi", "sectionID": "section1","elementContent":["ISO ",""]},
+    {"type": "span", "sectionID": "section1","elementContent":[", często nazywany  ",""]},
+    {"type": "i", "sectionID": "section1","elementContent":["obrazem ISO ",""]},
+    {"type": "span", "sectionID": "section1","elementContent":[", to pojedynczy plik, który stanowi doskonałą reprezentację całej płyty CD, DVD lub BD. Cała zawartość dysku może zostać precyzyjnie skopiowana w jednym pliku ISO.",""]},
+
+
+    {"type": "key-combo", "sectionID": "section1", "elementContent": ["Ctrl","G"]},
+    {"type": "span", "sectionID": "section1","elementContent":[")",""]},
+     {"type": "img", "sectionID": "section1", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia.webp",
+    "Ustawienia globalne w VirtualBox",
+    "944","539", "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section1","elementContent":["Zmień domyślny folder maszyn wirtualnych.",""]},
+ {"type": "img", "sectionID": "section1", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia-ogolne.webp",
+    "Domyślna ścieżka do przechowywania wyeksportowanych maszyn",
+    "900","630", "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia-ogolne_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section1","elementContent":["Dodatkowo możesz skonfigurować: motyw, język i sprawdzanie aktualizacji.",""]},
+{"type": "img", "sectionID": "section1", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia-ogolne-inne.webp",
+    "Inne ustawienia globalne VirtualBox-a",
+    "900","630", "KiraTheGames/test/main/virtualbox/vb-globalne-ustawienia-ogolne-inne_ORIGINAL.webp"
+    ]},
+
+    
+    {"type": "h2", "sectionID": "section2", "elementContent": ["Tworzenie nowej maszyny wirtualnej"]},
+    {"type": "span", "sectionID": "section2","elementContent":["Kliknij ",""]},
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["Nowa", "​"]},
+    {"type": "span", "sectionID": "section2","elementContent":[" (alternatywnie użyj skrótu klawiszowego ",""]},
+    {"type": "key-combo", "sectionID": "section2", "elementContent": ["Ctrl","N"]},
+    {"type": "span", "sectionID": "section2","elementContent":["). Pojawi się okno kreatora nowej maszyny. Nadaj maszynie jednoznaczną nazwę; katalog powinien ustawić się automatycznie dzięki wcześniejszym zmianom w ustawieniach globalnych. W polu",""]},
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["„ISO Image:”", "​"]},
+     {"type": "span", "sectionID": "section2","elementContent":[" wybierz ",""]},
+
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["„Inny…”", "​"]},
+     {"type": "span", "sectionID": "section2","elementContent":[" i wskaż obraz ISO systemu do instalacji. Jak nie masz jeszcze obrazu ISO lub nie znasz tego rozszerzenia pliku to zapraszam: ",""]},
+    {"type": "link-art", "sectionID": "section2", "elementContent": ["Obrazy ISO - Co to jest i jak je zdobyć", "Typy i rozszerzenia plików"]},
+    {"type": "span", "sectionID": "section2","elementContent":["Dodatkowo, pomiń instalację bez nadzoru (",""]},
+    {"type": "text-block-name", "sectionID": "section2", "elementContent": ["„Skip unattended Installation”", "​"]},
+    {"type": "span", "sectionID": "section2","elementContent":[").",""]},
+    {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna.webp",
+    "Podstawowe ustawienia nowej maszyny",
+    "944","536", "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section2","elementContent":["W kolejnym kroku przydziel cześć zasobów swojego fizycznego komputera nazywanego również ",""]},
+    {"type": "b", "sectionID": "section2","elementContent":["Gospodarzem",""]},
+    {"type": "span", "sectionID": "section2","elementContent":[",pamiętaj o  tym że",""]},
+    {"type": "u", "sectionID": "section2","elementContent":["będziesz musiał jednocześnie uruchamiać wiele maszyn i na nich pracować",""]},
+    {"type": "span", "sectionID": "section2","elementContent":["dlatego przemyśl ten etap (w razie co zawsze możesz to w późniejszym czasie zmienić w ustawieniach maszyny).",""]},
+{"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-RAM.webp",
+    "Przydzielanie zasobów RAM-u i Procesora",
+    "944","532", "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-RAM_ORIGINAL.webp"
+    ]},
+    {"type": "span", "sectionID": "section2","elementContent":["Następnie utwórz nowy wirtualny dysk twardy. Jeśli zaznaczysz opcję",""]},
+    {"type": "span", "sectionID": "section2","elementContent":["„Pre-allocate Full Size” ",""]},
+    {"type": "span", "sectionID": "section2","elementContent":[", plik dysku nie będzie dynamiczny i",""]},
+    {"type": "u", "sectionID": "section2","elementContent":["faktycznie zajmie 50 GB na dysku",""]},
+    {"type": "span", "sectionID": "section2","elementContent":[". Ta opcja jest dobra, gdy wykorzystywany jest fizyczny nośnik",""]},
+    {"type": "i", "sectionID": "section2","elementContent":["HDD",""]},
+    {"type": "span", "sectionID": "section2","elementContent":[".W przypadku stosowania",""]},
+    {"type": "i", "sectionID": "section2","elementContent":["SSD",""]},
+    {"type": "span", "sectionID": "section2","elementContent":["jako fizycznego nośnika, różnicy w wydajności maszyn nie zaobserwujesz, ale przy statycznej alokacji zmarnujesz potencjalne miejsce na dysku gospodarza.",""]},
+    {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-Dysk.webp",
+    "Tworzenie wirtualnego dysku",
+    "944","532", "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-Dysk_ORIGINAL.webp"
+    ]},
+        {"type": "span", "sectionID": "section2","elementContent":["W końcowej karcie zobaczysz wszystkie podjęte przez ciebie wybory podczas kreacji.",""]},
+   {"type": "img", "sectionID": "section2", "elementContent": [
+    "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-podsumowanie.webp",
+    "Podsumowanie tworzenia nowej maszyny",
+    "944","531", "KiraTheGames/test/main/virtualbox/vb-nowa-maszyna-podsumowanie_ORIGINAL.webp"
+    ]}
+    ]
