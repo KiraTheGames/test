@@ -13,7 +13,7 @@
 
     {"type": "span", "sectionID": "section1","elementContent":["Wymienione strony archiwizujące posiadają obrazy z zgodnym ",""]},
     {"type": "b", "sectionID": "section1","elementContent":["SHA ",""]},
-    {"type": "span", "sectionID": "section1","elementContent":["do plików oficjalnego dystrybutora i są prostsze w użytkowaniu.",""]}
+    {"type": "span", "sectionID": "section1","elementContent":["(Secure Hash Algorithm – to rodzina algorytmów do porównywania haszy/skrótów plików/danych) do plików oficjalnego dystrybutora i są prostsze w użytkowaniu.",""]}
     
     
 ]
