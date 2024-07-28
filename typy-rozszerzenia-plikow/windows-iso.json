@@ -66,7 +66,7 @@
     ]},
 
     
-    {"type": "h2", "sectionID": "section3", "elementContent": ["Gotowe obraz ISO z basewin.pl"]},
+    {"type": "h2", "sectionID": "section3", "elementContent": ["Gotowe obraz ISO z BaseWin.pl"]},
 
     {"type": "span", "sectionID": "section3","elementContent":["Przejdź na stronę główną ",""]},
     {"type": "link","sectionID":"section3","elementContent":["https://basewin.pl/"]},
@@ -87,7 +87,7 @@
     "945","87", "KiraTheGames/test/main/typy-rozszerzenia-plikow/pliki-iso-1_ORIGINAL.webp"
     ]},
 
-     {"type": "h2", "sectionID": "section4", "elementContent": ["Gotowe obraz ISO z winiso.pl"]},
+     {"type": "h2", "sectionID": "section4", "elementContent": ["Gotowe obraz ISO z WinISO.pl"]},
 
     {"type": "span", "sectionID": "section4","elementContent":["Przejdź na stronę główną ",""]},
     {"type": "link","sectionID":"section4","elementContent":["https://winiso.pl/"]},
