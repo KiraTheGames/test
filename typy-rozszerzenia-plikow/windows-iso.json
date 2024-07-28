@@ -11,9 +11,9 @@
     {"type": "link","sectionID":"section1","elementContent":["https://basewin.pl/"]},
     {"type": "link","sectionID":"section1","elementContent":["https://winiso.pl/"]},
 
-    {"type": "span", "sectionID": "section1","elementContent":["Wymienione strony archiwizujące posiadają obrazy z zgodnym ",""]},
-    {"type": "b", "sectionID": "section1","elementContent":["SHA ",""]},
-    {"type": "span", "sectionID": "section1","elementContent":["(Secure Hash Algorithm – to rodzina algorytmów do porównywania haszy/skrótów plików/danych) do plików oficjalnego dystrybutora i są prostsze w użytkowaniu.",""]}
+    {"type": "span", "sectionID": "section1","elementContent":["Wymienione strony archiwizujące posiadają obrazy zgodne z algorytmem",""]},
+    {"type": "b", "sectionID": "section1","elementContent":["SHA",""]},
+    {"type": "span", "sectionID": "section1","elementContent":["(Secure Hash Algorithm), który służy do porównywania skrótów plików lub danych. Te obrazy są dostępne dla plików oficjalnych dystrybutorów i są prostsze w użytkowaniu.",""]}
     
     
 ]
