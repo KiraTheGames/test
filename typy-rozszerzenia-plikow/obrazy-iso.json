@@ -1,6 +1,5 @@
 [
     {"type": "h2", "sectionID": "section1", "elementContent": ["Co to jest ISO"]},
-
     {"type": "span", "sectionID": "section1","elementContent":["Do przeprowadzenia instalacji systemu będziesz potrzebować obrazu dysku (",""]},
     {"type": "bi", "sectionID": "section1","elementContent":["ISO",""]},
     {"type": "span", "sectionID": "section1","elementContent":["). Plik ",""]},
@@ -8,7 +7,6 @@
     {"type": "span", "sectionID": "section1","elementContent":[", często nazywany  ",""]},
     {"type": "i", "sectionID": "section1","elementContent":["obrazem ISO",""]},
     {"type": "span", "sectionID": "section1","elementContent":[", to pojedynczy plik, który stanowi doskonałą reprezentację całej płyty CD, DVD lub BD. Cała zawartość dysku może zostać precyzyjnie skopiowana w jednym pliku ISO.",""]},
-
 
     {"type": "h2", "sectionID": "section2", "elementContent": ["Jak system operacyjny obsługuje pliki ISO?"]},
     {"type": "span", "sectionID": "section2","elementContent":["Skoro plik ISO ma być idealnym klonem płyty CD, DVD lub BD, system uzna, że pomimo braku napędu optycznego została włożona płyta instalacyjna. W związku z tym system Windows domyślnie odtworzy jej zawartość w eksploratorze plików, pod warunkiem, że nie zawiera ona skryptu autorun. Jeśli jednak taki skrypt istnieje, to właśnie on zostanie domyślnie uruchomiony.",""]},
@@ -24,16 +22,10 @@
     "1097","768", "KiraTheGames/test/main/typy-rozszerzenia-plikow/ISO_WIN_ORIGINAL.webp"
     ]},
 
-
-
-    {"type": "h2", "sectionID": "section2", "elementContent": ["Kolejne powiązane tematy: Obrazy ISO instalatorów systemów Windows i GNU Linux"]},
-
-    {"type": "span", "sectionID": "section2","elementContent":["Pliki ISO najcześciej wykorzystywane są do obrazów instalatorów systemu operacyjnego ",""]},
-     {"type": "br", "sectionID": "section2"},
-    {"type": "link-art", "sectionID": "section2", "elementContent": ["Obrazy systemów Windows", "Typy i rozszerzenia plików"]}
-     {"type": "br", "sectionID": "section2"},
-    {"type": "link-art", "sectionID": "section2", "elementContent": ["Obrazy systemów Linux", "Typy i rozszerzenia plików"]}
-
-    
-       
+    {"type": "h2", "sectionID": "section3", "elementContent": ["Kolejne powiązane tematy: Obrazy ISO instalatorów systemów Windows i GNU Linux"]},
+    {"type": "span", "sectionID": "section3","elementContent":["Pliki ISO najcześciej wykorzystywane są do obrazów instalatorów systemu operacyjnego ",""]},
+     {"type": "br", "sectionID": "section3"},
+    {"type": "link-art", "sectionID": "section3", "elementContent": ["Obrazy systemów Windows", "Typy i rozszerzenia plików"]},
+     {"type": "br", "sectionID": "section3"},
+    {"type": "link-art", "sectionID": "section3", "elementContent": ["Obrazy systemów Linux", "Typy i rozszerzenia plików"]}   
     ]
