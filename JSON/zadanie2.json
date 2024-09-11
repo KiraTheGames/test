@@ -26,7 +26,7 @@
     {"type": "br", "sectionID": "section2"},
     
     {"type": "table", "sectionID": "section2","elementContent": [
-        [{"type": "span", "sectionID": "section2", "elementContent": ["Konfiguracja interfejsu klienta", ""]},],
+        [{"type": "span", "sectionID": "section2", "elementContent": ["Konfiguracja interfejsu klienta", ""]}],
         
         [{"type": "span", "sectionID": "section2", "elementContent": ["Adres IPv4 klienta:", ""]},
     {"type": "text-block-name", "sectionID": "section2", "elementContent": ["192.168.0.50","IPv4"]}],
